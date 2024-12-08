@@ -1,0 +1,32 @@
+body{
+background-color: gray;
+}
+.ngm1{
+
+    font-family: "Bungee", sans-serif;
+text: decoration skip 0;
+
+}
+.nm1{
+    text-align: center;
+    
+    }
+
+.ngm2 img{
+height: 20%;
+width:20%;
+}
+.ngm2 h2{
+    font-family: "Bungee", serif;
+}
+.ngm2 h1{
+    font-family: "Bungee", serif; 
+}
+@media (max-width:1080px;) {
+    ngm1{
+font-size: small;
+    }
+    ngm2{
+font-size: small;
+    }
+}
